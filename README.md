@@ -1,9 +1,15 @@
 👋 Hi, I’m @akulsood12
+
 👀 I’m interested in learning Python, web development, and design.
+
 🌱 I’m currently learning front-end development with HTML, CSS, and Python.
+
 💞️ I’m looking to collaborate on web design projects or any AI-related work.
+
 📫 You can reach me via email: akusood23@gmail.com
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I’m a big fan of Dairy Milk chocolate!
 
 <!---
